@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CyanCriket-NotiTheOrc
+- 👋 Hi, I’m NotiTheOrc
 - 👀 I’m interested in streaming, live2d rigging, vTubers, and fun.
-- 🌱 I’m currently learning GoDot and chemistry.
-- 💞️ I’m looking to collaborate on a lot. If you have feedback please tell me!
-- 📫 How to reach me? I have a twitter, twitch, youtube, and email. Discord is probably best though frfr,
+- 🌱 I’m currently learning Godot and chemistry.
+- 💞️ If you have feedback please tell me!
+- 📫 How to reach me? I have a bluesky, twitch, youtube, and email. Discord is probably best though frfr.
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I am an orc on the internet that has a microwave body count. 
 
